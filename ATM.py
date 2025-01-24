@@ -1,5 +1,4 @@
 import time 
-
 print("insert your ATM pin ")
 password = 1234
 pin = int(input("enter your ATM pin: "))
