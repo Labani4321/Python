@@ -8,7 +8,7 @@ def printMaxActivities(s, f):
         if s[j] >= f[i]:
             print (j)
             i = j
-            
+
 # Driver code
 if __name__ == '__main__':
     s = [1, 3, 0, 5, 8, 5]
